@@ -1,0 +1,15 @@
+{
+  "name": "fmd5",
+  "version": "1.0.0",
+  "description": "get file md5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dingwenyuan",
+  "license": "ISC",
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "through2": "^1.0.1"
+  }
+}
